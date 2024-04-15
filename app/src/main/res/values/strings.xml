@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="default_web_client_id">141320290770-pqmfvcnlqt2r1pmb1h4fjopf034hufk4.apps.googleusercontent.com</string>
+    <string name="logout_icon">logout</string>
+</resources>
